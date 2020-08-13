@@ -1,2 +1,2 @@
 # live-git-github
-Um projeto básico apenas para praticar os comandos e do *git* e aprender seus significados para utilizar em projetos posteriores.
+Um projeto básico apenas para praticar os comandos do *git*, e aprender os principais recursos para utilizar em projetos posteriores.
